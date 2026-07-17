@@ -3,7 +3,7 @@
 # Tumelo Mosomane
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&lines=Software+Engineer;Backend+%7C+Fintech+%7C+Secure+Systems;AI+Engineering+%7C+Agent+Evaluation;Java+%7C+Python+%7C+TypeScript;Cloud+%7C+Testing+%7C+AI+Evaluation;Building+software+that+is+safe+to+change"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&lines=Software+Engineer;Backend+%7C+Fintech+%7C+Secure+Systems;AI+Engineering+%7C+Agent+Evaluation;Java+%7C+Python+%7C+TypeScript;Building+software+that+is+safe+to+change"
   alt="Animated introduction"
 />
 
@@ -30,9 +30,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-APIs%20%26%20Services-2F81F7?style=for-the-badge&logo=serverfault&logoColor=white" alt="Backend APIs and services" />
-<img src="https://img.shields.io/badge/Fintech-Ledgers%20%26%20Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Fintech ledgers and payments" />
-<img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-FF9900?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud engineering" />
+<img src="https://img.shields.io/badge/Backend-APIs%20%26%20Services-2F81F7?style=for-the-badge" alt="Backend APIs and services" />
+<img src="https://img.shields.io/badge/Fintech-Ledgers%20%26%20Payments-635BFF?style=for-the-badge" alt="Fintech ledgers and payments" />
+<img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-FF9900?style=for-the-badge" alt="Cloud engineering" />
 <img src="https://img.shields.io/badge/AI%20Engineering-Agents%20%26%20Evaluation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI engineering, agents and evaluation" />
 
 </div>
@@ -42,17 +42,19 @@
 <div align="center">
 
 <a href="https://github.com/Tumelo4/voice-secure-wallet">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tumelo4&repo=voice-secure-wallet&theme=transparent&hide_border=true&description_lines_count=2" alt="VoiceSecure Wallet" />
+  <img src="https://img.shields.io/badge/VoiceSecure%20Wallet-Java%20%7C%20Python%20%7C%20Kafka-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="VoiceSecure Wallet" />
 </a>
+
 <a href="https://github.com/Tumelo4/codebase-review-skill">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tumelo4&repo=codebase-review-skill&theme=transparent&hide_border=true&description_lines_count=2" alt="Codebase Review Skill" />
+  <img src="https://img.shields.io/badge/Codebase%20Review%20Skill-Codex%20%7C%20Security-412991?style=for-the-badge&logo=github&logoColor=white" alt="Codebase Review Skill" />
 </a>
 
 <a href="https://github.com/Tumelo4/leetcode-challenges">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tumelo4&repo=leetcode-challenges&theme=transparent&hide_border=true&description_lines_count=2" alt="LeetCode Challenges" />
+  <img src="https://img.shields.io/badge/LeetCode%20Challenges-Python%20%7C%20JavaScript-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Challenges" />
 </a>
+
 <a href="https://github.com/Tumelo4/assessment3_practice_data_structures">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tumelo4&repo=assessment3_practice_data_structures&theme=transparent&hide_border=true&description_lines_count=2" alt="Python Data Structures Practice" />
+  <img src="https://img.shields.io/badge/Python%20Data%20Structures-Pytest%20%7C%20Algorithms-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Structures Practice" />
 </a>
 
 </div>
@@ -207,7 +209,6 @@ Practical exercises covering generators, caching, dependency resolution, rate li
 
 </div>
 
-
 ## 🤖 AI Engineering
 
 <div align="center">
@@ -216,10 +217,10 @@ Practical exercises covering generators, caching, dependency resolution, rate li
 <img src="https://img.shields.io/badge/Agent-Evaluation-6F42C1?style=for-the-badge&logo=openai&logoColor=white" alt="AI agent evaluation" />
 <img src="https://img.shields.io/badge/RLHF-Model%20Quality-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="RLHF and model quality" />
 <img src="https://img.shields.io/badge/Prompt-Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt engineering" />
-<img src="https://img.shields.io/badge/Adversarial-Testing-D73A49?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Adversarial testing" />
-<img src="https://img.shields.io/badge/Tool-Orchestration-2F81F7?style=for-the-badge&logo=githubactions&logoColor=white" alt="Tool orchestration" />
-<img src="https://img.shields.io/badge/Benchmark-Design-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="AI benchmark design" />
-<img src="https://img.shields.io/badge/Failure--Mode-Analysis-8B0000?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Failure-mode analysis" />
+<img src="https://img.shields.io/badge/Adversarial-Testing-D73A49?style=for-the-badge" alt="Adversarial testing" />
+<img src="https://img.shields.io/badge/Tool-Orchestration-2F81F7?style=for-the-badge" alt="Tool orchestration" />
+<img src="https://img.shields.io/badge/Benchmark-Design-2EA44F?style=for-the-badge" alt="AI benchmark design" />
+<img src="https://img.shields.io/badge/Failure--Mode-Analysis-8B0000?style=for-the-badge" alt="Failure-mode analysis" />
 
 </div>
 
@@ -227,24 +228,13 @@ Practical exercises covering generators, caching, dependency resolution, rate li
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST-APIs-2F81F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/REST-APIs-2F81F7?style=for-the-badge" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Event--Driven-Architecture-6F42C1?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Event-driven architecture" />
 <img src="https://img.shields.io/badge/Domain--Driven-Design-0A66C2?style=for-the-badge" alt="Domain-driven design" />
 <img src="https://img.shields.io/badge/CQRS-Saga%20Pattern-8A2BE2?style=for-the-badge" alt="CQRS and saga pattern" />
-<img src="https://img.shields.io/badge/TDD-BDD-2EA44F?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="TDD and BDD" />
-<img src="https://img.shields.io/badge/OIDC-JWT-D73A49?style=for-the-badge&logo=auth0&logoColor=white" alt="OIDC and JWT" />
+<img src="https://img.shields.io/badge/TDD-BDD-2EA44F?style=for-the-badge" alt="TDD and BDD" />
+<img src="https://img.shields.io/badge/OIDC-JWT-D73A49?style=for-the-badge" alt="OIDC and JWT" />
 <img src="https://img.shields.io/badge/AI%20Engineering-Agents%20%7C%20RLHF%20%7C%20Evaluation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI engineering, agents, RLHF and evaluation" />
-
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tumelo4&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Tumelo's GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tumelo4&theme=transparent&hide_border=true" alt="Tumelo's GitHub contribution streak" />
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tumelo4&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
 
 </div>
 
@@ -252,9 +242,9 @@ Practical exercises covering generators, caching, dependency resolution, rate li
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Outlier-AI%20Data%20Specialist-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Outlier AI Data Specialist" />
-<img src="https://img.shields.io/badge/DevelIT%20ZA-Software%20Developer-2F81F7?style=for-the-badge&logo=codeforces&logoColor=white" alt="DevelIT ZA Software Developer" />
-<img src="https://img.shields.io/badge/MashX-Software%20Engineer-2EA44F?style=for-the-badge&logo=backendless&logoColor=white" alt="MashX Software Engineer" />
+<img src="https://img.shields.io/badge/Outlier-AI%20Data%20Specialist-412991?style=for-the-badge" alt="Outlier AI Data Specialist" />
+<img src="https://img.shields.io/badge/DevelIT%20ZA-Software%20Developer-2F81F7?style=for-the-badge" alt="DevelIT ZA Software Developer" />
+<img src="https://img.shields.io/badge/MashX-Software%20Engineer-2EA44F?style=for-the-badge" alt="MashX Software Engineer" />
 
 </div>
 
@@ -282,7 +272,7 @@ Node.js APIs, TypeScript services, CI/CD improvements and React Native backend s
 <div align="center">
 
 <img src="https://img.shields.io/badge/University%20of%20Pretoria-Computer%20Science%20Studies-003B5C?style=for-the-badge" alt="University of Pretoria Computer Science studies" />
-<img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00AEEF?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Certified in Cybersecurity" />
+<img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00AEEF?style=for-the-badge" alt="ISC2 Certified in Cybersecurity" />
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
 
 </div>
