@@ -271,6 +271,7 @@ Node.js APIs, TypeScript services, CI/CD improvements and React Native backend s
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/WeThinkCode_-Software%20Engineering%20Programme-000000?style=for-the-badge" alt="WeThinkCode Software Engineering Programme" />
 <img src="https://img.shields.io/badge/University%20of%20Pretoria-Computer%20Science%20Studies-003B5C?style=for-the-badge" alt="University of Pretoria Computer Science studies" />
 <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00AEEF?style=for-the-badge" alt="ISC2 Certified in Cybersecurity" />
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
